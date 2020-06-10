@@ -1,4 +1,4 @@
-# LinuxBuilds
+# **LinuxBuilds**
 Various config files for different distro installations
 - will hold all files and fixes to that build
 * shared vimrc, bash_aliases
@@ -10,4 +10,4 @@ Various config files for different distro installations
   - kde theme packages and wm 
 
 ## Kali
- - All configs will be seperate fromm debian builds
+ - All configs will be seperate from debian builds
